@@ -1,0 +1,44 @@
+MATH
+
+X + 20 = 25
+
+creating variable = defining variable
+
+var carType 
+
+var carColor
+
+---------------------------------------------
+
+var eyeColor
+var hairColor
+var phoneNumbar
+var address
+
+---------------------------------------------
+
+Naming Rules
+
+1. start any latter
+2. can't start with a number
+3. any length
+4. case sensetive
+5. use camel case
+6. reserved words
+
+---------------------------------------------
+
+String 
+
+1. single quote
+2. double quote
+
+var hairColor='black'
+var eyeColor="blue"
+
+var sentence = 'I can't see you'                 //syntax error
+var newSentence = "I can't see you"
+
+
+var something = "the world"
+var movie = "Home Alone"
